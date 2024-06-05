@@ -9,12 +9,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=30&duration=4967&pause=1000&color=95228ECD&center=true&width=435&lines=I'm+Dharmendra+karki;Front+End+Developer;https%3A%2F%2Fdharmendrakarki.me" alt="Typing SVG" />
 </p>
 
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Dharmendra karki</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendrakarkii&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrakarkii" /> </p>
