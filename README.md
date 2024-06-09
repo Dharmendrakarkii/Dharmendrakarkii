@@ -1,7 +1,7 @@
 <!-- ### Hi 👋, I'm Dharmendra karki -->
 <h1 align= "center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?   font=Righteous&size=35&duration=4999&pause=150&color=ABCE00&center=true&random=false&width=435&lines=Hello+There!+%F0%9F%91%8B;I'm+Dharmendra" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?   font=Righteous&size=35&duration=4999&pause=150&color=808000&center=true&random=false&width=435&lines=Hello+There!+%F0%9F%91%8B;I'm+Dharmendra" alt="Typing SVG" />
     </a>
 </h1>
 
