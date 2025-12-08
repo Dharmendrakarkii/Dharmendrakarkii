@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmendrakarkii&label=Profile%20views&color=0e75b6&style=flat" alt="dharmendrakarkii" /> </p>
 
-- 🌱 I’m currently learning **Fullstack development**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **karkidharmendra21@gmail.com**
 
